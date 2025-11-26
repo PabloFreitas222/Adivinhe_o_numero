@@ -1,3 +1,4 @@
+#Inicio do projeto
 from random import randint
 from time import sleep
 import os
